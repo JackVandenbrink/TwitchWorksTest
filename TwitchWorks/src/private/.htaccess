@@ -1,0 +1,3 @@
+# Deny access to the private folder with the helpers/database codes
+Deny from all
+
